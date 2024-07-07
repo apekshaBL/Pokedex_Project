@@ -1,0 +1,17 @@
+#Pokedex-heading{
+    margin: 0 auto;
+    letter-spacing: 5px;
+    margin-top: 2rem;
+    font-size: 50px;
+    
+}
+
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgba(7, 7, 7, 0.279);
+}

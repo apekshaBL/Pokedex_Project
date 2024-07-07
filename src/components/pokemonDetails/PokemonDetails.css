@@ -1,0 +1,32 @@
+.pokemon-details-wrapper{
+     align-items: center;
+    margin: auto;
+    justify-content: center;
+    
+   
+}
+
+.pokemon-details-name{
+    font-size: xx-large;
+    color: black;
+    margin-top: 1rem;
+
+}
+.pokemon-details-name >span{
+    letter-spacing: 1rem;
+}
+
+.pokemon-details-types{
+    display: flex;
+    gap: 3rem;
+    margin-top: 2rem;
+    font-size: larger;
+}
+.pokemon-details-types>div{
+    padding: 0.5rem;
+    border:solid  rgb(152, 149, 149);
+    border-radius: 1rem;
+    background-color: rgba(250, 235, 215, 0.205);
+  
+   
+}
